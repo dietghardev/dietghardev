@@ -96,17 +96,27 @@ const dietghardev = {
 
 <div align="center">
 
+### 🎯 My Coding Journey
+
 ```text
-🏆 Total Contributions: 2,479+
-⭐ Total Stars: Growing
-🔥 Current Streak: Active
-📦 Total Repositories: Check out my work!
+🏆  Total Contributions      2,479+
+⭐  Total Stars Earned       Growing Daily
+🔥  Current Streak           Active & Consistent
+📦  Total Repositories       Building Amazing Projects
+💻  Lines of Code Written    Countless
+🌟  Projects Completed       Multiple Full-Stack Apps
 ```
 
-<a href="https://github.com/dietghardev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dietghardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&hide_rank=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dietghardev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&include_all_commits=true&count_private=true"/>
-</a>
+### 💪 What I'm Working On
+
+```typescript
+const currentProjects = {
+    primary: "Full-stack web applications with React & Node.js",
+    learning: ["AI/ML Integration", "Cloud Architecture", "System Design"],
+    contributing: "Open source projects in the JavaScript ecosystem",
+    goals: "Building scalable, production-ready applications"
+};
+```
 
 </div>
 

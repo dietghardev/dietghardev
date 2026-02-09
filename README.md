@@ -92,28 +92,21 @@ const dietghardev = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dietghardev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=c9d1d9)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dietghardev&theme=radical&hide_border=true&background=0D1117&stroke=A177F7&ring=A177F7&fire=A177F7&currStreakLabel=A177F7)
+```text
+🏆 Total Contributions: 2,479+
+⭐ Total Stars: Growing
+🔥 Current Streak: Active
+📦 Total Repositories: Check out my work!
+```
 
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dietghardev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=c9d1d9)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dietghardev&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/dietghardev">
+  <img height="180em" src="https://github-readme-stats-psi-blush.vercel.app/api?username=dietghardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7"/>
+  <img height="180em" src="https://github-readme-stats-psi-blush.vercel.app/api/top-langs/?username=dietghardev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7"/>
+</a>
 
 </div>
 

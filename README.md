@@ -94,23 +94,28 @@ const dietghardev = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dietghardev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=dietghardev&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dietghardev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=dietghardev&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF&area_color=0D1117&title_color=A177F7&area=true" alt="Activity Graph" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dietghardev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dietghardev&theme=radical&hide_border=true&background=0D1117&stroke=A177F7&ring=A177F7&fire=A177F7&currStreakLabel=A177F7)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dietghardev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=c9d1d9)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dietghardev&theme=discord&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dietghardev&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 

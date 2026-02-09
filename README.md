@@ -104,8 +104,8 @@ const dietghardev = {
 ```
 
 <a href="https://github.com/dietghardev">
-  <img height="180em" src="https://github-readme-stats-psi-blush.vercel.app/api?username=dietghardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7"/>
-  <img height="180em" src="https://github-readme-stats-psi-blush.vercel.app/api/top-langs/?username=dietghardev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dietghardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&hide_rank=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dietghardev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&include_all_commits=true&count_private=true"/>
 </a>
 
 </div>

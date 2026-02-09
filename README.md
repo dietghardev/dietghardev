@@ -295,39 +295,6 @@ CSS          ███████░░░░░░░░░░░░░  35%
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Project Alpha
-**Full-stack E-commerce Platform**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dietghardev&repo=dietghardev&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dietghardev)
-
-`React` `Node.js` `MongoDB` `Stripe`
-
-</td>
-<td width="50%">
-
-### 💬 Project Beta
-**Real-time Chat Application**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dietghardev&repo=dietghardev&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dietghardev)
-
-`Next.js` `Socket.io` `Redis` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">

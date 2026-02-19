@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Dietghardev+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Shubham+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Products+People+Love+%F0%9F%92%9C;150%2B+Repos+%26+Counting+%F0%9F%93%A6;Founder+%40+DietGhar+%7C+Evanik+%7C+LawGenie" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -29,9 +29,6 @@
   <a href="https://linkedin.com/in/dietghardev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/dietghardev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="mailto:dietghardev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -43,49 +40,41 @@
 
 ```typescript
 class Developer {
-    name: string = "Dietghardev";
-    role: string = "Full Stack Developer";
-    location: string = "Building things on the Internet";
+    name: string = "Shubham";
+    role: string = "Full Stack Developer & Founder";
+    location: string = "India 🇮🇳";
 
-    code: string[] = [
-        "JavaScript", "TypeScript", "Python",
-        "Java", "Go", "C++"
-    ];
-
-    technologies = {
-        frontEnd: {
-            frameworks: ["React", "Next.js", "Vue", "Angular"],
-            styling: ["Tailwind", "Styled-Components", "Sass"],
-            stateManagement: ["Redux", "Zustand", "Context API"]
-        },
-        backEnd: {
-            nodeJS: ["Express", "Nest.js", "Socket.io"],
-            python: ["Django", "Flask", "FastAPI"],
-            apis: ["REST", "GraphQL", "tRPC"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
-        devOps: ["Docker", "Kubernetes", "AWS", "GCP", "GitHub Actions"],
-        mobile: ["React Native", "Flutter"],
-        tools: ["Git", "VS Code", "Postman", "Figma", "Jira"]
+    products = {
+        dietghar:  "AI-powered diet & nutrition platform",
+        evanik:    "Multi-vendor e-commerce & seller SaaS",
+        lawGenie:  "Legal management system & court scraper",
+        shubhJi:   "Wedding & event management platform",
+        nyayX:     "Legal tech & court case tracker",
     };
 
-    currentFocus = "Building scalable applications & exploring AI/ML";
-    lifePhilosophy = "Code, Learn, Repeat 🔄";
+    code: string[] = ["JavaScript", "TypeScript", "Python"];
 
-    getCurrentActivity(): string {
-        return "Crafting elegant solutions to complex problems ✨";
-    }
+    technologies = {
+        frontEnd:  ["React", "Next.js", "React Native", "Tailwind CSS"],
+        backEnd:   ["Node.js", "Express.js", "NestJS", "Socket.io"],
+        databases: ["MongoDB", "Firebase", "MySQL", "Redis"],
+        devOps:    ["Docker", "AWS", "GitHub Actions", "Nginx"],
+        tools:     ["Git", "VS Code", "Postman", "Figma"]
+    };
+
+    currentFocus = "Scaling products & building AI-integrated SaaS";
+    lifePhilosophy = "Ship fast. Learn faster. Repeat 🔄";
 }
 ```
 
 ### 🎮 Quick Facts
 
-- 🔭 Currently working on **Full-stack web applications**
-- 🌱 Learning **System Design, AI/ML, and Cloud Architecture**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, or anything tech**
-- ⚡ Fun fact: **I believe every bug is just a feature in disguise!**
-- 🎯 2026 Goals: **Contribute more to Open Source & build production-ready AI tools**
+- 🔭 Currently building **DietGhar 2.0, Evanik Vendor SaaS & NyayX**
+- 🌱 Exploring **AI/ML integration, Microservices & Cloud Architecture**
+- 💼 Founder of **2 tech organizations** with **150+ repositories**
+- 💬 Ask me about **Next.js, Node.js, MongoDB, or SaaS architecture**
+- ⚡ Fun fact: **I've built scrapers for Amazon, Flipkart, Meesho & JioMart!**
+- 🎯 2026 Goals: **Launch DietGhar 2.0 & expand Evanik to 10,000+ vendors**
 
 ---
 
@@ -98,9 +87,6 @@ class Developer {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -108,46 +94,38 @@ class Developer {
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🧪 Testing & Tools
+### 🧪 Tools
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -165,12 +143,14 @@ class Developer {
 
 ```text
 ╔═══════════════════════════════════════════════════════════╗
-║  🏆  Total Contributions      2,479+                      ║
-║  ⭐  Total Stars Earned       Growing Daily               ║
-║  🔥  Current Streak           Active & Consistent         ║
-║  📦  Total Repositories       Building Amazing Projects   ║
-║  💻  Lines of Code            Countless & Counting        ║
-║  🌟  Projects Completed       Multiple Full-Stack Apps    ║
+║  🏆  Total Contributions      2,753+                      ║
+║  📦  Total Repositories       150+                        ║
+║  🏢  Organizations            2 (dietghar01, ZevnixAi)    ║
+║  🔥  2025 Commits             2,210                       ║
+║  🚀  Products Shipped         5 (DietGhar, Evanik,        ║
+║                                  LawGenie, ShubhJi, NyayX)║
+║  🤖  Scrapers Built           Amazon, Flipkart,           ║
+║                                  Meesho, JioMart, Snapdeal║
 ║  ☕  Coffee Consumed          Infinite Loop               ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -181,22 +161,22 @@ class Developer {
 <tr>
 <td width="50%" valign="top">
 
-#### 🚀 Active Projects
-- Full-stack e-commerce platform
-- Real-time chat application
-- AI-powered productivity tool
-- Developer portfolio showcase
-- Open source contributions
+#### 🚀 Active Products
+- **DietGhar 2.0** — AI meal planning & diet tracking
+- **Evanik Vendor SaaS** — Multi-vendor seller platform
+- **LawGenie** — Legal management & court scraper
+- **ShubhJi** — Wedding & event management
+- **NyayX** — Court case tracking & legal tech
 
 </td>
 <td width="50%" valign="top">
 
 #### 📚 Currently Learning
-- Advanced System Design
-- Machine Learning & AI Integration
-- Cloud Architecture Patterns
-- Microservices Architecture
-- WebAssembly & Edge Computing
+- AI/ML Integration in SaaS products
+- Microservices & Event-Driven Architecture
+- Advanced Cloud Infrastructure (AWS)
+- React Native performance optimization
+- WhatsApp Cloud API automation
 
 </td>
 </tr>
@@ -226,27 +206,27 @@ class Developer {
 
 ```mermaid
 mindmap
-  root((Dietghardev))
+  root((Shubham))
+    Products
+      DietGhar AI Platform
+      Evanik Vendor SaaS
+      LawGenie Legal Tech
+      ShubhJi Events
     Code Quality
-      Clean Code
-      Best Practices
+      Clean Architecture
+      Scalable APIs
       Code Reviews
-      Documentation
+      Performance First
     Learning
       AI/ML Integration
       System Design
-      Cloud Architecture
-      New Technologies
-    Building
-      Full Stack Apps
-      Open Source Projects
-      Developer Tools
-      Side Projects
-    Community
-      Open Source
-      Tech Communities
-      Mentoring
-      Knowledge Sharing
+      Cloud & DevOps
+      Mobile Development
+    Automation
+      E-commerce Scrapers
+      WhatsApp Automation
+      Amazon SP API
+      Notification Services
 ```
 
 </div>
@@ -269,15 +249,15 @@ mindmap
 
 ### 🎖️ Milestones
 
-| Achievement | Status | Progress |
-|------------|--------|----------|
-| 🌟 First Repository | ✅ | Complete |
-| 💯 100 Contributions | ✅ | Complete |
-| ⭐ First Star | ✅ | Complete |
-| 🔥 30 Day Streak | ✅ | Complete |
-| 📦 10 Repositories | 🚀 | In Progress |
-| 👥 100 Followers | 🎯 | Target Set |
-| 🌟 100 Stars | 🎯 | Target Set |
+| Achievement | Status | Details |
+|------------|--------|---------|
+| 🌟 First Repository | ✅ Complete | Shipped! |
+| 💯 100 Contributions | ✅ Complete | 2,753+ total |
+| 🔥 Consistent Coder | ✅ Complete | 2,210 commits in 2025 |
+| 📦 100+ Repositories | ✅ Complete | 150+ repos across 2 orgs |
+| 🏢 Founded 2 Orgs | ✅ Complete | dietghar01 & ZevnixAi-Applications |
+| 🚀 5 Products Shipped | ✅ Complete | DietGhar, Evanik, LawGenie, ShubhJi, NyayX |
+| 👥 100 Followers | 🎯 Target | Growing... |
 
 </div>
 
@@ -286,11 +266,11 @@ mindmap
 ## 📈 Weekly Development Breakdown
 
 ```text
-TypeScript   ████████████░░░░░░░░  60%
-JavaScript   ████████░░░░░░░░░░░░  40%
-Python       ██████░░░░░░░░░░░░░░  30%
-Go           ████░░░░░░░░░░░░░░░░  20%
-CSS          ███████░░░░░░░░░░░░░  35%
+TypeScript   ████████████████░░░░  70%
+JavaScript   █████████████░░░░░░░  60%
+Python       ██████░░░░░░░░░░░░░░  25%
+CSS/Tailwind █████████░░░░░░░░░░░  40%
+Shell/Config ████░░░░░░░░░░░░░░░░  15%
 ```
 
 ---
@@ -311,20 +291,17 @@ CSS          ███████░░░░░░░░░░░░░  35%
   <a href="https://github.com/dietghardev">
     <img src="https://img.shields.io/github/followers/dietghardev?label=Follow%20on%20GitHub&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/dietghardev">
-    <img src="https://img.shields.io/github/stars/dietghardev?affiliations=OWNER&style=social" alt="GitHub stars" />
-  </a>
 </p>
 
 ### 🎯 Let's Build Something Amazing Together!
 
 ```typescript
 const collaborate = async () => {
-    const interests = ["Web Development", "AI/ML", "Open Source", "Cloud Computing"];
+    const expertise = ["Full Stack", "SaaS", "E-commerce", "Legal Tech", "Health Tech"];
 
-    if (yourInterests.includes(...interests)) {
+    if (yourIdea.needsExpert(...expertise)) {
         await sendEmail("dietghardev@gmail.com");
-        return "Let's create something awesome! 🚀";
+        return "Let's build something amazing! 🚀";
     }
 };
 ```
